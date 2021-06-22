@@ -1,4 +1,4 @@
-module github.com/binxio/gcp-get-secret
+module github.com/kultivatorconsulting/gcp-get-secret
 
 go 1.14
 
